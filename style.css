@@ -1,0 +1,30 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+}
+
+body{
+    padding: 10px 10px;
+    background: #000033;
+}
+
+.container{
+    column-width: 250px;
+    -webkit-column-width: 250px;
+}
+
+.contain-img{
+    width: 250px;
+    margin: 5px 0;
+}
+
+.contain-img img{
+    width: 250px;
+}
+.contain-img p{
+    width: 250px;
+    text-align: center;
+    color: #CCCCCC;
+    background: #333333;
+}
+
